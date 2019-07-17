@@ -1,0 +1,12 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "MOCK Server basato su json-server che mette a disposizione velocemente un set di servizi REST ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luca Pascucci",
+  "license": "ISC",
+  "devDependencies": {}
+}

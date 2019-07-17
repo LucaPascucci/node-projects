@@ -1,0 +1,49 @@
+{
+  "devices": [
+    {
+      "label": "One Plus 8",
+      "os": "android",
+      "price": 750,
+      "rate": 3,
+      "memory": 7400,
+      "desc": "One Plus 5 is a flagship phone...",
+      "id": 2
+    },
+    {
+      "label": "iPhone XS",
+      "os": "ios",
+      "price": 1200,
+      "rate": 3,
+      "memory": 3000,
+      "desc": "",
+      "id": 24
+    },
+    {
+      "label": "iPhone 7 Plus",
+      "price": 700,
+      "os": "ios",
+      "id": 25
+    },
+    {
+      "label": "Nokia 3310",
+      "price": 49.9,
+      "os": "others",
+      "id": 26
+    },
+    {
+      "label": "Nokia 6600",
+      "price": 99,
+      "os": "others",
+      "id": 27
+    },
+    {
+      "label": "Samsung S8",
+      "price": 599.9,
+      "os": "android",
+      "id": 28
+    }
+  ],
+  "login": {
+    "token": "efoiwejo32r32-fake-token"
+  }
+}
